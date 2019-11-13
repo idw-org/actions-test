@@ -1,4 +1,4 @@
-const test = require("zora");
+const { test } = require("zora");
 
 test("should result to the answer", t => {
   const answer = 42;
