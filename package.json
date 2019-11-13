@@ -4,7 +4,7 @@
   "description": "",
   "main": "test.js",
   "scripts": {
-    "test": "node test.js | tap-set-ext"
+    "test": "node test.js | tap-set-exit"
   },
   "repository": {
     "type": "git",
